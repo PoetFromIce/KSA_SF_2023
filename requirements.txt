@@ -1,2 +1,2 @@
 sentencepiece
-sentencepiece
+streamlit
